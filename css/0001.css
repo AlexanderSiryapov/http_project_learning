@@ -1,0 +1,9 @@
+.myFavoriteButton {
+    border: none;
+    background-color: aquamarine;
+    color: blueviolet;
+    border-radius: 20% 10% 20% 10%;
+    font-size: 14px;
+    width: 7em;
+    height: 3em;
+}
